@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/quadtree_tests_tests-b12d07c.cmake")
+  include("C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/quadtree_tests_tests-b12d07c.cmake")
+else()
+  add_test(quadtree_tests_NOT_BUILT-b12d07c quadtree_tests_NOT_BUILT-b12d07c)
+endif()

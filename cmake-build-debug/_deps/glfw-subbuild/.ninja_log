@@ -1,0 +1,37 @@
+# ninja log v6
+5	269	7858704494648384	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	2f27e1c28504ee43
+7243	7785	7858704564631286	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	24465b6360c03fa3
+7785	8013	7858704572104843	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	bb57b50fbff591ac
+5	269	7858704494648384	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	2f27e1c28504ee43
+270	7243	7858704564405083	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	bce434f27f379a24
+270	7243	7858704564405083	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	bce434f27f379a24
+8449	8677	7858704578721226	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	89a31f624b73c29b
+7785	8013	7858704572104843	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	bb57b50fbff591ac
+7243	7785	7858704564631286	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	24465b6360c03fa3
+8013	8206	7858704574068189	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	2744bc61f39c2ea0
+8894	9195	7858704583946777	CMakeFiles/glfw-populate-complete	d6326a40b51bb52b
+8013	8206	7858704574068189	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	2744bc61f39c2ea0
+8206	8449	7858704576470374	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	85a0acdafada5667
+8206	8449	7858704576470374	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	85a0acdafada5667
+8449	8677	7858704578721226	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	89a31f624b73c29b
+8677	8894	7858704580882297	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	785b3881d7fbb02b
+8677	8894	7858704580882297	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	785b3881d7fbb02b
+8894	9195	7858704583946777	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	d6326a40b51bb52b
+8894	9195	7858704583946777	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	d6326a40b51bb52b
+8894	9195	7858704583946777	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	d6326a40b51bb52b
+2	241	7858705932070846	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	24465b6360c03fa3
+2	241	7858705932070846	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	24465b6360c03fa3
+241	385	7858705935782325	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	bb57b50fbff591ac
+241	385	7858705935782325	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	bb57b50fbff591ac
+386	522	7858705937135758	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	2744bc61f39c2ea0
+386	522	7858705937135758	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	2744bc61f39c2ea0
+522	655	7858705938482557	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	85a0acdafada5667
+522	655	7858705938482557	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	85a0acdafada5667
+655	808	7858705940010586	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	89a31f624b73c29b
+655	808	7858705940010586	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	89a31f624b73c29b
+809	957	7858705941504585	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	785b3881d7fbb02b
+809	957	7858705941504585	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	785b3881d7fbb02b
+957	1151	7858705943444736	CMakeFiles/glfw-populate-complete	d6326a40b51bb52b
+957	1151	7858705943444736	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	d6326a40b51bb52b
+957	1151	7858705943444736	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	d6326a40b51bb52b
+957	1151	7858705943444736	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	d6326a40b51bb52b
