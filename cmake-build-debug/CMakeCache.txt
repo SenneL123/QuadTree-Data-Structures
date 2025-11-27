@@ -14,6 +14,9 @@
 # EXTERNAL cache entries
 ########################
 
+//Build GUI application
+BUILD_GUI:BOOL=ON
+
 //Build shared libraries
 BUILD_SHARED_LIBS:BOOL=OFF
 
@@ -319,7 +322,7 @@ CMAKE_INSTALL_MANDIR:PATH=
 CMAKE_INSTALL_OLDINCLUDEDIR:PATH=/usr/include
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/QuadtreeProject
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/Project
 
 //Run-time variable data (LOCALSTATEDIR/run)
 CMAKE_INSTALL_RUNSTATEDIR:PATH=
@@ -375,7 +378,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=QuadtreeProject
+CMAKE_PROJECT_NAME:STATIC=Project
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION:STATIC=1.0.0
@@ -540,6 +543,9 @@ FETCHCONTENT_UPDATES_DISCONNECTED_GLFW:BOOL=OFF
 //Enables UPDATE_DISCONNECTED behavior just for population of imgui
 FETCHCONTENT_UPDATES_DISCONNECTED_IMGUI:BOOL=OFF
 
+//Path to a program.
+GITCOMMAND:FILEPATH=C:/Program Files/Git/cmd/git.exe
+
 //Git command line client
 GIT_EXECUTABLE:FILEPATH=C:/Program Files/Git/cmd/git.exe
 
@@ -579,14 +585,20 @@ MEMORYCHECK_COMMAND:FILEPATH=MEMORYCHECK_COMMAND-NOTFOUND
 //File that contains suppressions for the memory checker
 MEMORYCHECK_SUPPRESSIONS_FILE:FILEPATH=
 
-//Value Computed by CMake
-QuadtreeProject_BINARY_DIR:STATIC=C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug
+//OpenGL library for win32
+OPENGL_gl_LIBRARY:STRING=opengl32
+
+//GLU library for win32
+OPENGL_glu_LIBRARY:STRING=glu32
 
 //Value Computed by CMake
-QuadtreeProject_IS_TOP_LEVEL:STATIC=ON
+Project_BINARY_DIR:STATIC=C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug
 
 //Value Computed by CMake
-QuadtreeProject_SOURCE_DIR:STATIC=C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project
+Project_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Project_SOURCE_DIR:STATIC=C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project
 
 //Name of the computer/site where compile is being run
 SITE:STRING=LaptopSenne
@@ -730,7 +742,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=3
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=8
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
@@ -806,8 +818,12 @@ DINPUT_H_FOUND:INTERNAL=1
 DOXYGEN_EXECUTABLE-ADVANCED:INTERNAL=1
 //Details about finding Doxygen
 FIND_PACKAGE_MESSAGE_DETAILS_Doxygen:INTERNAL=[C:/Program Files/doxygen/bin/doxygen.exe][cfound components: doxygen ][v1.13.2()]
+//Details about finding OpenGL
+FIND_PACKAGE_MESSAGE_DETAILS_OpenGL:INTERNAL=[opengl32][c ][v()]
 //Details about finding Threads
 FIND_PACKAGE_MESSAGE_DETAILS_Threads:INTERNAL=[TRUE][v()]
+//ADVANCED property for variable: GITCOMMAND
+GITCOMMAND-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: GIT_EXECUTABLE
 GIT_EXECUTABLE-ADVANCED:INTERNAL=1
 //Test HAVE_FLAG__ffile_prefix_map_C__Users_senne_OneDrive___Universiteit_Antwerpen_Schooljaar_2025_2026_1ste_semester_Data_Structures_Practicum_Project_cmake_build_debug__deps_catch2_src__
@@ -818,12 +834,14 @@ MAKECOMMAND-ADVANCED:INTERNAL=1
 MEMORYCHECK_COMMAND-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: MEMORYCHECK_SUPPRESSIONS_FILE
 MEMORYCHECK_SUPPRESSIONS_FILE-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OPENGL_gl_LIBRARY
+OPENGL_gl_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OPENGL_glu_LIBRARY
+OPENGL_glu_LIBRARY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: SITE
 SITE-ADVANCED:INTERNAL=1
 //Have include xinput.h
 XINPUT_H_FOUND:INTERNAL=1
-//Catch2 full path to CatchAddTests.cmake helper file
-_CATCH_DISCOVER_TESTS_SCRIPT:INTERNAL=C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-src/extras/CatchAddTests.cmake
 //linker supports push/pop state
 _CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED:INTERNAL=TRUE
 //Test _GLFW_HAS_64ASLR
@@ -833,5 +851,5 @@ _GLFW_HAS_ASLR:INTERNAL=1
 //Test _GLFW_HAS_DEP
 _GLFW_HAS_DEP:INTERNAL=1
 //CMAKE_INSTALL_PREFIX during last run
-_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=C:/Program Files (x86)/QuadtreeProject
+_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=C:/Program Files (x86)/Project
 

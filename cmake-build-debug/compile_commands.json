@@ -1,6 +1,54 @@
 [
 {
   "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src/backends\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\imgui.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\imgui.cpp\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\imgui.cpp",
+  "output": "CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\imgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src/backends\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\imgui_demo.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\imgui_demo.cpp\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\imgui_demo.cpp",
+  "output": "CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\imgui_demo.cpp.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src/backends\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\imgui_draw.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\imgui_draw.cpp\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\imgui_draw.cpp",
+  "output": "CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src/backends\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\imgui_tables.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\imgui_tables.cpp\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\imgui_tables.cpp",
+  "output": "CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src/backends\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\imgui_widgets.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\imgui_widgets.cpp\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\imgui_widgets.cpp",
+  "output": "CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src/backends\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\backends\\imgui_impl_glfw.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\backends\\imgui_impl_glfw.cpp\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\backends\\imgui_impl_glfw.cpp",
+  "output": "CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\backends\\imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src/backends\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\backends\\imgui_impl_opengl3.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\backends\\imgui_impl_opengl3.cpp\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\imgui-src\\backends\\imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles\\imgui_lib.dir\\_deps\\imgui-src\\backends\\imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/imgui-src/backends\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\quadtree_gui.dir\\src\\main_gui.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\src\\main_gui.cpp\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\src\\main_gui.cpp",
+  "output": "CMakeFiles\\quadtree_gui.dir\\src\\main_gui.cpp.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
   "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/include\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\QuadTreeLib.dir\\src\\Quadtree.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\src\\Quadtree.cpp\"",
   "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\src\\Quadtree.cpp",
   "output": "CMakeFiles\\QuadTreeLib.dir\\src\\Quadtree.cpp.obj"
@@ -13,13 +61,7 @@
 },
 {
   "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/include/catch2\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\quadtree_tests.dir\\test\\main.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\test\\main.cpp\"",
-  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\test\\main.cpp",
-  "output": "CMakeFiles\\quadtree_tests.dir\\test\\main.cpp.obj"
-},
-{
-  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/include/catch2\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\quadtree_tests.dir\\test\\quadtree_tests.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\test\\quadtree_tests.cpp\"",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/include/catch2\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-src/src/catch2/..\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-build/generated-includes\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\quadtree_tests.dir\\test\\quadtree_tests.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\test\\quadtree_tests.cpp\"",
   "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\test\\quadtree_tests.cpp",
   "output": "CMakeFiles\\quadtree_tests.dir\\test\\quadtree_tests.cpp.obj"
 },
@@ -646,5 +688,575 @@
   "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-src/src/catch2/..\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-build/generated-includes\" -g -std=gnu++17 -fdiagnostics-color=always -o _deps\\catch2-build\\src\\CMakeFiles\\Catch2WithMain.dir\\catch2\\internal\\catch_main.cpp.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\catch2-src\\src\\catch2\\internal\\catch_main.cpp\"",
   "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\catch2-src\\src\\catch2\\internal\\catch_main.cpp",
   "output": "_deps\\catch2-build\\src\\CMakeFiles\\Catch2WithMain.dir\\catch2\\internal\\catch_main.cpp.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\context.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\context.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\context.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\init.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\init.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\init.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\input.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\input.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\input.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\monitor.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\monitor.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\vulkan.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\vulkan.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\window.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\window.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\window.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_init.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_init.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_joystick.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_joystick.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_monitor.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_monitor.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_time.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_time.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_thread.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_thread.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_window.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_window.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\wgl_context.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\wgl_context.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\egl_context.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\egl_context.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/src\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-build/src\" -g -std=gnu99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\osmesa_context.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\src\\osmesa_context.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\boing.dir\\boing.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\boing.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\boing.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\boing.dir\\boing.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\windres.exe -O coff -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc\" _deps\\glfw-build\\examples\\CMakeFiles\\boing.dir\\glfw.rc.obj",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\boing.dir\\glfw.rc.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\boing.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\boing.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\gears.dir\\gears.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\gears.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\gears.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\gears.dir\\gears.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\windres.exe -O coff -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc\" _deps\\glfw-build\\examples\\CMakeFiles\\gears.dir\\glfw.rc.obj",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\gears.dir\\glfw.rc.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\gears.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\gears.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\heightmap.dir\\heightmap.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\heightmap.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\heightmap.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\heightmap.dir\\heightmap.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\windres.exe -O coff -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc\" _deps\\glfw-build\\examples\\CMakeFiles\\heightmap.dir\\glfw.rc.obj",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\heightmap.dir\\glfw.rc.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\heightmap.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\heightmap.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\offscreen.dir\\offscreen.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\offscreen.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\offscreen.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\offscreen.dir\\offscreen.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\windres.exe -O coff -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc\" _deps\\glfw-build\\examples\\CMakeFiles\\offscreen.dir\\glfw.rc.obj",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\offscreen.dir\\glfw.rc.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\offscreen.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\offscreen.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\particles.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\particles.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\particles.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\particles.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\windres.exe -O coff -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc\" _deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\glfw.rc.obj",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\glfw.rc.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\__\\deps\\tinycthread.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\tinycthread.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\tinycthread.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\__\\deps\\tinycthread.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\__\\deps\\getopt.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\sharing.dir\\sharing.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\sharing.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\sharing.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\sharing.dir\\sharing.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\windres.exe -O coff -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc\" _deps\\glfw-build\\examples\\CMakeFiles\\sharing.dir\\glfw.rc.obj",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\sharing.dir\\glfw.rc.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\sharing.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\sharing.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\simple.dir\\simple.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\simple.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\simple.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\simple.dir\\simple.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\windres.exe -O coff -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc\" _deps\\glfw-build\\examples\\CMakeFiles\\simple.dir\\glfw.rc.obj",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\simple.dir\\glfw.rc.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\simple.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\simple.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\splitview.dir\\splitview.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\splitview.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\splitview.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\splitview.dir\\splitview.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\windres.exe -O coff -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc\" _deps\\glfw-build\\examples\\CMakeFiles\\splitview.dir\\glfw.rc.obj",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\splitview.dir\\glfw.rc.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\splitview.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\splitview.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\wave.dir\\wave.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\wave.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\wave.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\wave.dir\\wave.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\windres.exe -O coff -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I \"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc\" _deps\\glfw-build\\examples\\CMakeFiles\\wave.dir\\glfw.rc.obj",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\wave.dir\\glfw.rc.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\examples\\CMakeFiles\\wave.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\wave.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\clipboard.dir\\clipboard.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\clipboard.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\clipboard.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\clipboard.dir\\clipboard.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\clipboard.dir\\__\\deps\\getopt.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\clipboard.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\clipboard.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\clipboard.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\events.dir\\events.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\events.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\events.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\events.dir\\events.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\events.dir\\__\\deps\\getopt.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\events.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\events.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\events.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\msaa.dir\\msaa.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\msaa.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\msaa.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\msaa.dir\\msaa.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\msaa.dir\\__\\deps\\getopt.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\msaa.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\msaa.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\msaa.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\glfwinfo.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\glfwinfo.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\glfwinfo.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\glfwinfo.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\__\\deps\\getopt.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\__\\deps\\glad_vulkan.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_vulkan.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_vulkan.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\__\\deps\\glad_vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\iconify.dir\\iconify.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\iconify.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\iconify.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\iconify.dir\\iconify.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\iconify.dir\\__\\deps\\getopt.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\iconify.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\iconify.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\iconify.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\monitors.dir\\monitors.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\monitors.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\monitors.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\monitors.dir\\monitors.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\monitors.dir\\__\\deps\\getopt.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\monitors.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\monitors.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\monitors.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\reopen.dir\\reopen.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\reopen.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\reopen.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\reopen.dir\\reopen.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\reopen.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\reopen.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\cursor.dir\\cursor.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\cursor.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\cursor.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\cursor.dir\\cursor.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\cursor.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\cursor.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\empty.dir\\empty.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\empty.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\empty.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\empty.dir\\empty.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\empty.dir\\__\\deps\\tinycthread.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\tinycthread.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\tinycthread.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\empty.dir\\__\\deps\\tinycthread.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\empty.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\empty.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\gamma.dir\\gamma.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\gamma.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\gamma.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\gamma.dir\\gamma.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\gamma.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\gamma.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\icon.dir\\icon.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\icon.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\icon.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\icon.dir\\icon.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\icon.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\icon.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\inputlag.dir\\inputlag.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\inputlag.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\inputlag.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\inputlag.dir\\inputlag.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\inputlag.dir\\__\\deps\\getopt.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\inputlag.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\inputlag.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\inputlag.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\joysticks.dir\\joysticks.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\joysticks.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\joysticks.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\joysticks.dir\\joysticks.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\joysticks.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\joysticks.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\opacity.dir\\opacity.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\opacity.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\opacity.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\opacity.dir\\opacity.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\opacity.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\opacity.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\tearing.dir\\tearing.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\tearing.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\tearing.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\tearing.dir\\tearing.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\tearing.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\tearing.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\threads.dir\\threads.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\threads.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\threads.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\threads.dir\\threads.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\threads.dir\\__\\deps\\tinycthread.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\tinycthread.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\tinycthread.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\threads.dir\\__\\deps\\tinycthread.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\threads.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\threads.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\timeout.dir\\timeout.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\timeout.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\timeout.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\timeout.dir\\timeout.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\timeout.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\timeout.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\title.dir\\title.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\title.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\title.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\title.dir\\title.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\title.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\title.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\triangle-vulkan.dir\\triangle-vulkan.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\triangle-vulkan.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\triangle-vulkan.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\triangle-vulkan.dir\\triangle-vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\triangle-vulkan.dir\\__\\deps\\glad_vulkan.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_vulkan.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_vulkan.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\triangle-vulkan.dir\\__\\deps\\glad_vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\windows.dir\\windows.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\windows.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\tests\\windows.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\windows.dir\\windows.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\windows.dir\\__\\deps\\getopt.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\windows.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/deps\" -I\"C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/glfw-src/include\" -g -std=gnu99 -fdiagnostics-color=always -o _deps\\glfw-build\\tests\\CMakeFiles\\windows.dir\\__\\deps\\glad_gl.c.obj -c \"C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c\"",
+  "file": "C:\\Users\\senne\\OneDrive - Universiteit Antwerpen\\Schooljaar 2025-2026\\1ste semester\\Data Structures\\Practicum\\Project\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\windows.dir\\__\\deps\\glad_gl.c.obj"
 }
 ]

@@ -1,5 +1,7 @@
+#define CATCH_CONFIG_MAIN
 #include <catch2/catch.hpp>
 #include "../include/Project/Quadtree.h"
+
 
 TEST_CASE("QuadTree basic insertion", "[quadtree]") {
     Rect boundary{0, 0, 100, 100};

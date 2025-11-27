@@ -40,6 +40,18 @@ public:
     bool insert(const Point& p);
     void print(int level = 0) const;
     std::vector<Point> queryRange(const Rect& range) const;
+    
+    // Getter for boundary (needed for rendering)
+    const Rect& getBoundary() const { return boundary; }
+    // Getter for points (needed for rendering)
+    const std::vector<Point>& getPoints() const { return points; }
+    // Check if node is divided (needed for rendering)
+    bool isDivided() const { return divided; }
+    // Get child nodes (needed for rendering)
+    QuadTree* getNW() const { return nw; }
+    QuadTree* getNE() const { return ne; }
+    QuadTree* getSW() const { return sw; }
+    QuadTree* getSE() const { return se; }
 };
 
 #endif //PROJECT_QUADTREE_H

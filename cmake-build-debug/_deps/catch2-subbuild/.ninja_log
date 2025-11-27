@@ -1,37 +1,37 @@
 # ninja log v6
-2	174	7858689461984028	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	acb693181b7f70c1
-2	174	7858689461984028	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	acb693181b7f70c1
-175	7304	7858689533304984	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	4b6722c877d2325f
-687	1014	7858706226379693	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	ed7ce21724a1202e
-175	7304	7858689533304984	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	4b6722c877d2325f
-1774	2143	7858706237740992	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	f5f1b03c86a3519b
-7	429	7858706216616123	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	ba3c4aaa1bdf1eef
-430	687	7858706223187858	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	9cc5bba2185afe15
-7	429	7858706216616123	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	ba3c4aaa1bdf1eef
-430	687	7858706223187858	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	9cc5bba2185afe15
-687	1014	7858706226379693	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	ed7ce21724a1202e
-1015	1320	7858706229482531	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	26a350a9b374f0cb
-1015	1320	7858706229482531	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	26a350a9b374f0cb
-1321	1584	7858706232185952	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	55d52daa25920fc0
-1321	1584	7858706232185952	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	55d52daa25920fc0
-1584	1774	7858706234095013	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	97d65ba9ad2c7491
-1584	1774	7858706234095013	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	97d65ba9ad2c7491
-1774	2143	7858706237740992	CMakeFiles/catch2-populate-complete	f5f1b03c86a3519b
-1774	2143	7858706237740992	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	f5f1b03c86a3519b
-1774	2143	7858706237740992	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	f5f1b03c86a3519b
-7	398	7858706365436856	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	ba3c4aaa1bdf1eef
-7	398	7858706365436856	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	ba3c4aaa1bdf1eef
-398	616	7858706371331829	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	9cc5bba2185afe15
-398	616	7858706371331829	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	9cc5bba2185afe15
-617	805	7858706373239467	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	ed7ce21724a1202e
-617	805	7858706373239467	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	ed7ce21724a1202e
-805	1010	7858706375263369	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	26a350a9b374f0cb
-805	1010	7858706375263369	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	26a350a9b374f0cb
-1010	1201	7858706377177559	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	55d52daa25920fc0
-1010	1201	7858706377177559	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	55d52daa25920fc0
-1202	1387	7858706379052861	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	97d65ba9ad2c7491
-1202	1387	7858706379052861	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	97d65ba9ad2c7491
-1388	1635	7858706381565982	CMakeFiles/catch2-populate-complete	f5f1b03c86a3519b
-1388	1635	7858706381565982	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	f5f1b03c86a3519b
-1388	1635	7858706381565982	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	f5f1b03c86a3519b
-1388	1635	7858706381565982	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	f5f1b03c86a3519b
+4	373	7859540427595706	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	acb693181b7f70c1
+4	373	7859540427595706	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	acb693181b7f70c1
+387	10416	7859540528342845	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	4b6722c877d2325f
+469	657	7859545566919889	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	ed7ce21724a1202e
+387	10416	7859540528342845	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	4b6722c877d2325f
+1278	1579	7859545576131746	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	f5f1b03c86a3519b
+3	257	7859545560498924	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	ba3c4aaa1bdf1eef
+257	468	7859545564987584	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	9cc5bba2185afe15
+3	257	7859545560498924	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	ba3c4aaa1bdf1eef
+257	468	7859545564987584	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	9cc5bba2185afe15
+469	657	7859545566919889	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	ed7ce21724a1202e
+658	856	7859545568927109	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	26a350a9b374f0cb
+658	856	7859545568927109	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	26a350a9b374f0cb
+856	1050	7859545570795555	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	55d52daa25920fc0
+856	1050	7859545570795555	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	55d52daa25920fc0
+1050	1278	7859545573118114	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	97d65ba9ad2c7491
+1050	1278	7859545573118114	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	97d65ba9ad2c7491
+1278	1579	7859545576131746	CMakeFiles/catch2-populate-complete	f5f1b03c86a3519b
+1278	1579	7859545576131746	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	f5f1b03c86a3519b
+1278	1579	7859545576131746	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	f5f1b03c86a3519b
+4	382	7859563470610389	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	ba3c4aaa1bdf1eef
+4	382	7859563470610389	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	ba3c4aaa1bdf1eef
+383	618	7859563476590777	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	9cc5bba2185afe15
+383	618	7859563476590777	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	9cc5bba2185afe15
+618	867	7859563479083846	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	ed7ce21724a1202e
+618	867	7859563479083846	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	ed7ce21724a1202e
+867	1113	7859563481544621	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	26a350a9b374f0cb
+867	1113	7859563481544621	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	26a350a9b374f0cb
+1113	1388	7859563484247503	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	55d52daa25920fc0
+1113	1388	7859563484247503	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	55d52daa25920fc0
+1388	1660	7859563486990669	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	97d65ba9ad2c7491
+1388	1660	7859563486990669	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	97d65ba9ad2c7491
+1661	2072	7859563491099889	CMakeFiles/catch2-populate-complete	f5f1b03c86a3519b
+1661	2072	7859563491099889	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	f5f1b03c86a3519b
+1661	2072	7859563491099889	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	f5f1b03c86a3519b
+1661	2072	7859563491099889	C:/Users/senne/OneDrive - Universiteit Antwerpen/Schooljaar 2025-2026/1ste semester/Data Structures/Practicum/Project/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	f5f1b03c86a3519b
