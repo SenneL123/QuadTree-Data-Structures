@@ -114,6 +114,16 @@ add_executable(quadtree_app
 )
 target_link_libraries(quadtree_app PRIVATE QuadTreeLib)
 
+# Demo application
+add_executable(quadtree_demo
+        "demo/quadtree_demo.cpp"
+)
+target_link_libraries(quadtree_demo PRIVATE QuadTreeLib)
+set_target_properties(quadtree_demo PROPERTIES
+    CXX_STANDARD 17
+    CXX_STANDARD_REQUIRED ON
+)
+
 if(BUILD_TESTS)
     # Testing setup
     enable_testing()
@@ -124,6 +134,7 @@ if(BUILD_TESTS)
     # Create the test executable
     add_executable(quadtree_tests
             "test/quadtree_tests.cpp"
+            "test/quadtree_assignment_tests.cpp"
     )
 
     # If using embedded Catch2

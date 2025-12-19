@@ -1,3 +1,16 @@
-cmake-build-debug/
-.idea/
+
+# Ignore build / IDE files
+cmake-build-*/
 build/
+.idea/
+.vscode/
+*.o
+*.obj
+*.exe
+
+# CLion / IDE
+.idea/
+*.iml
+
+# Build
+cmake-build-debug/
