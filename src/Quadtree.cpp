@@ -5,20 +5,6 @@
 #include <iostream>
 #include <string>
 
-// Rect member functions
-bool Rect::contains(const Point& p) const {
-    return (p.x >= x - halfWidth &&
-            p.x <= x + halfWidth &&
-            p.y >= y - halfHeight &&
-            p.y <= y + halfHeight);
-}
-
-bool Rect::intersects(const Rect& other) const {
-    return !(other.x - other.halfWidth > x + halfWidth ||
-             other.x + other.halfWidth < x - halfWidth ||
-             other.y - other.halfHeight > y + halfHeight ||
-             other.y + other.halfHeight < y - halfHeight);
-}
 
 // QuadTree member functions
 QuadTree::QuadTree(const Rect& boundary)
@@ -70,31 +56,34 @@ bool QuadTree::insert(const Point& p) {
             sw->insert(p) || se->insert(p));
 }
 
-std::vector<Point> QuadTree::queryRange(const Rect& range) const {
-    std::vector<Point> pointsInRange;
-    
+std::unordered_set<Point> QuadTree::queryRange(const Rect& range) const {
+    std::unordered_set<Point> pointsInRange;
+
+    // If this node's boundary doesn't intersect with the query range, return empty set
     if (!boundary.intersects(range)) {
         return pointsInRange;
     }
-    
+
+    // Check points in this node
     for (const auto& p : points) {
         if (range.contains(p)) {
-            pointsInRange.push_back(p);
+            pointsInRange.insert(p);
         }
     }
-    
+
+    // If this node has children, query them as well
     if (divided) {
-        auto nwPoints = nw->queryRange(range);
-        auto nePoints = ne->queryRange(range);
-        auto swPoints = sw->queryRange(range);
-        auto sePoints = se->queryRange(range);
-        
-        pointsInRange.insert(pointsInRange.end(), nwPoints.begin(), nwPoints.end());
-        pointsInRange.insert(pointsInRange.end(), nePoints.begin(), nePoints.end());
-        pointsInRange.insert(pointsInRange.end(), swPoints.begin(), swPoints.end());
-        pointsInRange.insert(pointsInRange.end(), sePoints.begin(), sePoints.end());
+        // Query each child and merge results
+        auto mergeResults = [&pointsInRange](const std::unordered_set<Point>& childPoints) {
+            pointsInRange.insert(childPoints.begin(), childPoints.end());
+        };
+
+        mergeResults(nw->queryRange(range));
+        mergeResults(ne->queryRange(range));
+        mergeResults(sw->queryRange(range));
+        mergeResults(se->queryRange(range));
     }
-    
+
     return pointsInRange;
 }
 
@@ -107,5 +96,26 @@ void QuadTree::print(int level) const {
         ne->print(level + 1);
         sw->print(level + 1);
         se->print(level + 1);
+    }
+}
+
+void QuadTree::clear() {
+    // Clear all points in this node
+    points.clear();
+    
+    // Recursively clear child nodes if they exist
+    if (divided) {
+        nw->clear();
+        ne->clear();
+        sw->clear();
+        se->clear();
+        
+        // Delete child nodes
+        delete nw; nw = nullptr;
+        delete ne; ne = nullptr;
+        delete sw; sw = nullptr;
+        delete se; se = nullptr;
+        
+        divided = false;
     }
 }

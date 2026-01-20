@@ -1,19 +1,10 @@
 #include <Project/QuadtreeAssignment.h>
+#include <Project/GameObject.h>
 #include <iostream>
 #include <vector>
 #include <string>
 #include <random>
 #include <chrono>
-
-// Simple structure to represent a game object
-struct GameObject {
-    int id;
-    std::string name;
-    
-    bool operator==(const GameObject& other) const {
-        return id == other.id;
-    }
-};
 
 int main() {
     std::cout << "=== Quadtree Demo ===\n\n";

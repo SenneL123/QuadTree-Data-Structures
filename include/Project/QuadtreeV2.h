@@ -56,11 +56,7 @@ private:
     void subdivide();
 
 public:
-    /**
-     * @brief Construct a new QuadTree with the given boundary and capacity
-     * @param boundary The AABB that defines the bounds of this quadtree
-     * @param capacity Maximum number of items a node can hold before subdividing
-     */
+
     QuadTree(const AABB& boundary, size_t capacity = 4);
     
     ~QuadTree() = default;
@@ -73,24 +69,10 @@ public:
     QuadTree(QuadTree&&) = default;
     QuadTree& operator=(QuadTree&&) = default;
 
-    /**
-     * @brief Insert an item with the given AABB into the quadtree
-     * @param data The data to store
-     * @param bounds The AABB of the data
-     * @return true if the item was inserted, false if it's outside the quadtree bounds
-     */
     bool insert(const T& data, const AABB& bounds);
-    
-    /**
-     * @brief Query the quadtree for items that could collide with the given AABB
-     * @param range The AABB to check for potential collisions
-     * @return Vector of items that could potentially collide with the range
-     */
+
     std::vector<T> queryRange(const AABB& range) const;
-    
-    /**
-     * @brief Clear all items from the quadtree
-     */
+
     void clear();
     
     // Getters for visualization/debugging

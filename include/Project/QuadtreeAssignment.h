@@ -4,30 +4,16 @@
 #include <vector>
 #include <memory>
 #include <stdexcept>
+#include <unordered_set>
+#include <string>
 
-/**
- * @brief A quadtree implementation for spatial partitioning with configurable capacity.
- * 
- * @tparam T The type of data to store in the quadtree
- */
+
 template <typename T>
 class Quadtree {
 public:
-    /**
-     * @brief Construct a new Quadtree with the given bounds and capacity
-     * 
-     * @param x_min Minimum x-coordinate of the quadtree bounds
-     * @param y_min Minimum y-coordinate of the quadtree bounds
-     * @param x_max Maximum x-coordinate of the quadtree bounds
-     * @param y_max Maximum y-coordinate of the quadtree bounds
-     * @param region_capacity Maximum number of elements in a region before splitting
-     * @throws std::invalid_argument if bounds are invalid or capacity is zero
-     */
+
     Quadtree(double x_min, double y_min, double x_max, double y_max, size_t region_capacity = 4);
-    
-    /**
-     * @brief Destroy the Quadtree object
-     */
+
     ~Quadtree() = default;
     
     // Prevent copying
@@ -37,47 +23,15 @@ public:
     // Allow moving
     Quadtree(Quadtree&&) = default;
     Quadtree& operator=(Quadtree&&) = default;
-    
-    /**
-     * @brief Insert an element with the given bounds into the quadtree
-     * 
-     * @param element The element to insert
-     * @param x_min Minimum x-coordinate of the element's bounds
-     * @param y_min Minimum y-coordinate of the element's bounds
-     * @param x_max Maximum x-coordinate of the element's bounds
-     * @param y_max Maximum y-coordinate of the element's bounds
-     * @return true if the element was inserted, false if it's outside the quadtree bounds
-     */
+
     bool insert(const T& element, double x_min, double y_min, double x_max, double y_max);
-    
-    /**
-     * @brief Query the quadtree for elements that could intersect with the given range
-     * 
-     * @param x_min Minimum x-coordinate of the query range
-     * @param y_min Minimum y-coordinate of the query range
-     * @param x_max Maximum x-coordinate of the query range
-     * @param y_max Maximum y-coordinate of the query range
-     * @return std::vector<T> Vector of elements that could intersect with the range
-     */
-    std::vector<T> query_range(double x_min, double y_min, double x_max, double y_max) const;
-    
-    /**
-     * @brief Clear all elements from the quadtree
-     */
+
+    std::unordered_set<T> query_range(double x_min, double y_min, double x_max, double y_max) const;
+
     void clear();
-    
-    /**
-     * @brief Get the number of elements in the quadtree
-     * 
-     * @return size_t Number of elements
-     */
+
     size_t size() const;
-    
-    /**
-     * @brief Check if the quadtree is empty
-     * 
-     * @return true if the quadtree is empty, false otherwise
-     */
+
     bool empty() const;
     
 private:
@@ -113,7 +67,7 @@ private:
     size_t size_;
     
     void subdivide(Node* node);
-    void query_range_recursive(const Node* node, const AABB& range, std::vector<T>& results) const;
+    void query_range_recursive(const Node* node, const AABB& range, std::unordered_set<T>& results) const;
     void get_all_elements(const Node* node, std::vector<std::pair<T, AABB>>& elements) const;
 };
 
@@ -242,30 +196,27 @@ void Quadtree<T>::subdivide(Node* node) {
 }
 
 template <typename T>
-std::vector<T> Quadtree<T>::query_range(double x_min, double y_min, double x_max, double y_max) const {
-    std::vector<T> results;
+std::unordered_set<T> Quadtree<T>::query_range(double x_min, double y_min, double x_max, double y_max) const {
+    std::unordered_set<T> results;
     AABB range{x_min, y_min, x_max, y_max};
     query_range_recursive(root_.get(), range, results);
     return results;
 }
 
 template <typename T>
-void Quadtree<T>::query_range_recursive(const Node* node, const AABB& range, std::vector<T>& results) const {
+void Quadtree<T>::query_range_recursive(const Node* node, const AABB& range, std::unordered_set<T>& results) const {
     if (!node) return;
     
-    // Check if the query range intersects this node's bounds
     if (!node->bounds.intersects(range)) {
         return;
     }
     
-    // Check elements in this node
     for (const auto& elem : node->elements) {
         if (range.intersects(elem.second)) {
-            results.push_back(elem.first);
+            results.insert(elem.first);
         }
     }
     
-    // Recursively check children
     if (node->nw) {
         query_range_recursive(node->nw.get(), range, results);
         query_range_recursive(node->ne.get(), range, results);
@@ -304,5 +255,7 @@ void Quadtree<T>::get_all_elements(const Node* node, std::vector<std::pair<T, AA
         get_all_elements(node->se.get(), elements);
     }
 }
+
+
 
 #endif // PROJECT_QUADTREE_ASSIGNMENT_H

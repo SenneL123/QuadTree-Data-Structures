@@ -6,17 +6,26 @@
 #define PROJECT_QUADTREE_H
 
 #include <vector>
-
-struct Point {
-    double x, y;
-};
+#include <unordered_set>
+#include "Point.h"
 
 struct Rect {
     double x, y;      // center
     double halfWidth, halfHeight;
 
-    bool contains(const Point& p) const;
-    bool intersects(const Rect& other) const;
+    bool contains(const Point& p) const {
+        return (p.x >= x - halfWidth && 
+                p.x <= x + halfWidth && 
+                p.y >= y - halfHeight && 
+                p.y <= y + halfHeight);
+    }
+
+    bool intersects(const Rect& other) const {
+        return !(other.x - other.halfWidth > x + halfWidth ||
+                 other.x + other.halfWidth < x - halfWidth ||
+                 other.y - other.halfHeight > y + halfHeight ||
+                 other.y + other.halfHeight < y - halfHeight);
+    }
 };
 
 class QuadTree {
@@ -39,7 +48,7 @@ public:
 
     bool insert(const Point& p);
     void print(int level = 0) const;
-    std::vector<Point> queryRange(const Rect& range) const;
+    std::unordered_set<Point> queryRange(const Rect& range) const;
     
     // Getter for boundary (needed for rendering)
     const Rect& getBoundary() const { return boundary; }
@@ -52,6 +61,9 @@ public:
     QuadTree* getNE() const { return ne; }
     QuadTree* getSW() const { return sw; }
     QuadTree* getSE() const { return se; }
+    
+    // Clear the quadtree
+    void clear();
 };
 
 #endif //PROJECT_QUADTREE_H

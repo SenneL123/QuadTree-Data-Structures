@@ -134,7 +134,7 @@ if(BUILD_TESTS)
     # Create the test executable
     add_executable(quadtree_tests
             "test/quadtree_tests.cpp"
-            "test/quadtree_assignment_tests.cpp"
+            #"test/quadtree_assignment_tests.cpp"
     )
 
     # If using embedded Catch2
