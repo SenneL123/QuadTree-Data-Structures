@@ -94,9 +94,9 @@ void DrawQuadtree(Quadtree<int>& qt, ImDrawList* drawList, const ImVec2& offset,
         
         // Draw this node's boundary
         if (!node->is_divided) {
-            DrawRect(node->bounds, drawList, offset, scale, IM_COL32(100, 255, 100, 50), 1.0f);
+            DrawRect(node->bounds, drawList, offset, scale, IM_COL32(100, 100, 100, 100), 1.0f); // Grey border for leaf nodes
         } else {
-            DrawRect(node->bounds, drawList, offset, scale, IM_COL32(100, 100, 100, 100), 1.0f);
+            DrawRect(node->bounds, drawList, offset, scale, IM_COL32(50, 50, 50, 150), 1.0f);    // Darker grey for non-leaf nodes
         }
         
         // Recursively draw children
