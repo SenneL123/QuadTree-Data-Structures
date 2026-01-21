@@ -99,19 +99,23 @@ if(BUILD_GUI)
 
 endif()
 
-# Main library
-add_library(QuadTreeLib STATIC
-        "src/Quadtree.cpp"
+# Main library - using header-only implementation
+add_library(QuadTreeLib INTERFACE)
+
+target_include_directories(QuadTreeLib INTERFACE
+        "${PROJECT_SOURCE_DIR}/include"
 )
 
-target_include_directories(QuadTreeLib PUBLIC
-        "${PROJECT_SOURCE_DIR}/include"
+# Add compile definitions if needed
+target_compile_definitions(QuadTreeLib INTERFACE
+        $<$<CONFIG:Debug>:DEBUG>
 )
 
 # Console application
 add_executable(quadtree_app
         "src/main.cpp"
 )
+
 target_link_libraries(quadtree_app PRIVATE QuadTreeLib)
 
 # Demo application

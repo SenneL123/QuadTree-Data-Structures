@@ -2,6 +2,8 @@
 #include <vector>
 #include <random>
 #include <memory>
+#include <string>
+#include <functional> // For std::function
 
 // Include ImGui and GLFW headers
 #include "imgui.h"
@@ -11,15 +13,26 @@
 
 // Project headers
 #include "../include/Project/Quadtree.h"
+#include "../include/Project/AxisAlignedBoundingBox.h"
+#include "Project/Quadtree.h"
+
+using namespace Project;
+
+// Simple point struct for GUI
+struct Point {
+    float x, y;
+    Point() : x(0), y(0) {}
+    Point(float x, float y) : x(x), y(y) {}
+};
 
 // Forward declarations for drawing functions
 void DrawPoint(const Point& p, ImDrawList* drawList, const ImVec2& offset, float scale, ImU32 color = IM_COL32(255, 0, 0, 255));
-void DrawRect(const Rect& r, ImDrawList* drawList, const ImVec2& offset, float scale, ImU32 color = IM_COL32(0, 255, 0, 100), float thickness = 1.0f);
-void DrawQuadtree(QuadTree& qt, ImDrawList* drawList, const ImVec2& offset, float scale);
+void DrawRect(const AxisAlignedBoundingBox& aabb, ImDrawList* drawList, const ImVec2& offset, float scale, ImU32 color = IM_COL32(0, 255, 0, 100), float thickness = 1.0f);
+void DrawQuadtree(Quadtree<int>& qt, ImDrawList* drawList, const ImVec2& offset, float scale);
 
 // Application state
 struct AppState {
-    std::unique_ptr<QuadTree> quadtree;
+    std::unique_ptr<Quadtree<int>> quadtree;
     std::vector<Point> points;
     bool showBoundaries = true;
     bool showPoints = true;
@@ -29,6 +42,7 @@ struct AppState {
     bool isDragging = false;
     ImVec2 dragStartPos{0, 0};
     ImVec2 dragStartOffset{0, 0};
+    std::string status;
 
     void generatePoints(int count, float width, float height) {
         points.clear();
@@ -37,16 +51,21 @@ struct AppState {
         std::uniform_real_distribution<float> distX(0, width);
         std::uniform_real_distribution<float> distY(0, height);
 
+        // Create quadtree bounds slightly larger than the view
+        AxisAlignedBoundingBox bounds(-width * 0.1f, -height * 0.1f, width * 1.1f, height * 1.1f);
+        quadtree = std::make_unique<Quadtree<int>>(bounds, 4);
+        
         for (int i = 0; i < count; ++i) {
-            points.push_back({distX(gen), distY(gen)});
+            float x = distX(gen);
+            float y = distY(gen);
+            points.emplace_back(x, y);
+            
+            // Add to quadtree with index as metadata
+            AxisAlignedBoundingBox pointAABB(x - 0.5f, y - 0.5f, x + 0.5f, y + 0.5f);
+            quadtree->insert(pointAABB, i);
         }
         
-        // Rebuild quadtree with new points
-        Rect boundary{width/2, height/2, width/2, height/2};
-        quadtree = std::make_unique<QuadTree>(boundary);
-        for (const auto& p : points) {
-            quadtree->insert(p);
-        }
+        status = "Generated " + std::to_string(count) + " points";
     }
 };
 
@@ -58,25 +77,48 @@ void DrawPoint(const Point& p, ImDrawList* drawList, const ImVec2& offset, float
     drawList->AddCircleFilled(ImVec2(x, y), 3.0f, color);
 }
 
-void DrawRect(const Rect& r, ImDrawList* drawList, const ImVec2& offset, float scale, ImU32 color, float thickness) {
+void DrawRect(const AxisAlignedBoundingBox& aabb, ImDrawList* drawList, const ImVec2& offset, float scale, ImU32 color, float thickness) {
     ImVec2 pos = ImGui::GetCursorScreenPos();
-    float x1 = pos.x + offset.x + (r.x - r.halfWidth) * scale;
-    float y1 = pos.y + offset.y + (r.y - r.halfHeight) * scale;
-    float x2 = pos.x + offset.x + (r.x + r.halfWidth) * scale;
-    float y2 = pos.y + offset.y + (r.y + r.halfHeight) * scale;
+    float x1 = pos.x + offset.x + aabb.getMinX() * scale;
+    float y1 = pos.y + offset.y + aabb.getMinY() * scale;
+    float x2 = pos.x + offset.x + aabb.getMaxX() * scale;
+    float y2 = pos.y + offset.y + aabb.getMaxY() * scale;
     drawList->AddRect(ImVec2(x1, y1), ImVec2(x2, y2), color, 0.0f, 15, thickness);
 }
 
-void DrawQuadtree(QuadTree& qt, ImDrawList* drawList, const ImVec2& offset, float scale) {
-    // Draw the boundary of this node
-    DrawRect(qt.getBoundary(), drawList, offset, scale, IM_COL32(100, 100, 100, 100));
+void DrawQuadtree(Quadtree<int>& qt, ImDrawList* drawList, const ImVec2& offset, float scale) {
+    // Draw the quadtree boundaries (recursively)
+    std::function<void(const typename Quadtree<int>::QuadTreeNode*)> drawNode;
+    drawNode = [&](const auto* node) {
+        if (!node) return;
+        
+        // Draw this node's boundary
+        if (!node->is_divided) {
+            DrawRect(node->bounds, drawList, offset, scale, IM_COL32(100, 255, 100, 50), 1.0f);
+        } else {
+            DrawRect(node->bounds, drawList, offset, scale, IM_COL32(100, 100, 100, 100), 1.0f);
+        }
+        
+        // Recursively draw children
+        if (node->nw) {
+            drawNode(node->nw.get());
+            drawNode(node->ne.get());
+            drawNode(node->sw.get());
+            drawNode(node->se.get());
+        }
+    };
     
-    // If this node has children, draw them recursively
-    if (qt.isDivided()) {
-        DrawQuadtree(*qt.getNW(), drawList, offset, scale);
-        DrawQuadtree(*qt.getNE(), drawList, offset, scale);
-        DrawQuadtree(*qt.getSW(), drawList, offset, scale);
-        DrawQuadtree(*qt.getSE(), drawList, offset, scale);
+    if (qt.get_root()) {
+        drawNode(qt.get_root());
+    }
+    
+    // Draw all points in the quadtree
+    for (const auto& [aabb, meta] : qt) {
+        Point p{
+            static_cast<float>(aabb.getCenterX()),
+            static_cast<float>(aabb.getCenterY())
+        };
+        DrawPoint(p, drawList, offset, scale, IM_COL32(255, 0, 0, 255));
     }
 }
 
@@ -115,7 +157,13 @@ int main() {
 
     // Initialize AppState
     AppState appState;
-    appState.generatePoints(100, 1000, 600);
+    
+    // Initial window size
+    int windowWidth, windowHeight;
+    glfwGetWindowSize(window, &windowWidth, &windowHeight);
+    
+    // Initialize with points
+    appState.generatePoints(100, static_cast<float>(windowWidth), static_cast<float>(windowHeight));
 
     // Main loop
     while (!glfwWindowShouldClose(window)) {
@@ -132,7 +180,9 @@ int main() {
         ImGui::Text("Use mouse wheel to zoom, left-click drag to pan, right-click to add points");
         
         if (ImGui::Button("Generate Points")) {
-            appState.generatePoints(appState.pointCount, 1000, 600);
+            int width, height;
+            glfwGetWindowSize(window, &width, &height);
+            appState.generatePoints(appState.pointCount, static_cast<float>(width), static_cast<float>(height));
         }
         
         ImGui::SliderInt("Point Count", &appState.pointCount, 10, 1000);
@@ -142,6 +192,13 @@ int main() {
         
         ImGui::Text("Application average %.3f ms/frame (%.1f FPS)", 
                     1000.0f / ImGui::GetIO().Framerate, ImGui::GetIO().Framerate);
+        
+        // Display status information
+        ImGui::Separator();
+        ImGui::Text("Status: %s", appState.status.c_str());
+        ImGui::Text("Points: %zu", appState.points.size());
+        ImGui::Text("Quadtree size: %zu", appState.quadtree ? appState.quadtree->size() : 0);
+        
         ImGui::End();
 
         // Main drawing area
@@ -200,13 +257,18 @@ int main() {
         // Handle point insertion on right click
         if (ImGui::IsWindowHovered() && ImGui::IsMouseClicked(1)) { // Right click
             ImVec2 mouse_pos = ImGui::GetMousePos();
-            Point p{
-                (mouse_pos.x - appState.offset.x - canvas_pos.x) / appState.scale,
-                (mouse_pos.y - appState.offset.y - canvas_pos.y) / appState.scale
-            };
-            if (appState.quadtree->insert(p)) {
-                appState.points.push_back(p);
-            }
+            float x = (mouse_pos.x - appState.offset.x - canvas_pos.x) / appState.scale;
+            float y = (mouse_pos.y - appState.offset.y - canvas_pos.y) / appState.scale;
+            
+            // Create a small AABB for the point
+            AxisAlignedBoundingBox pointAABB(x - 0.5f, y - 0.5f, x + 0.5f, y + 0.5f);
+            
+            // Add to points list and quadtree
+            appState.points.emplace_back(x, y);
+            int pointIndex = static_cast<int>(appState.points.size() - 1);
+            appState.quadtree->insert(pointAABB, pointIndex);
+            
+            appState.status = "Added point at (" + std::to_string(x) + ", " + std::to_string(y) + ")";
         }
         
         ImGui::End();
